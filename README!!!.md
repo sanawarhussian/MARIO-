@@ -1,5 +1,5 @@
 # MARIO-
-DOwnload all files to computer.
+DOwnload all files to computer. /newline
 To run Mario.exe  download the executable and the environment.rar file
 decompress the environment.rar and put Mario.exe and environment folder in same directory and run Mario.exe
 to compile/debug code, setup Dark GDK on Visual c++ 2008
